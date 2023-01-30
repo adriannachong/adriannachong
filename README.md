@@ -4,7 +4,7 @@ I am an emerging software engineer with an interest in AI, Data Analysis and Dev
 
 I am always open to new opportunities for learning and collaborations, so feel free to say hi! (or Сайн уу) 🙋🏼‍♀️
 
-## 🐍 Languages:
+### 🐍 Languages:
 - [x] Python
 - [x] Java
 - [x] SQL
@@ -13,17 +13,17 @@ I am always open to new opportunities for learning and collaborations, so feel f
 - [ ] C++
 - [ ] Go
 
-## 🏠 Frameworks: 
+### 🏠 Frameworks: 
 - [x] Django
 - [ ] React
 - [ ] Bootstrap
 
-## 🕹️ Technologies:
+### 🕹️ Technologies:
 - [x] Git
 - [x] Figma
 - [x] Adobe Suite: Illustrator, Photoshop, Premiere Pro, Lightroom
 - [x] Microsoft Suite
 
-## 📄 Certifications:
+### 📄 Certifications:
 - [x] Google Analytics 
 - [x] Google UX Design
