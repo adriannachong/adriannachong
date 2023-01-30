@@ -1,2 +1,3 @@
-#Сайн уу ертөнц ##### (hello world in Mongolian)
+#Сайн уу ертөнц
+##### (that's hello world in Mongolian)
 ###
