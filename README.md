@@ -8,14 +8,14 @@ I am always open to new opportunities for learning and collaborations, so feel f
 - [x] Python
 - [x] Java
 - [x] SQL
-- [ ] Javascript
+- [x] Javascript
 - [ ] Typescript
 - [ ] C++
 - [ ] Go
 
 ### 🏠 Frameworks: 
 - [x] Django
-- [ ] React
+- [x] React
 - [ ] Bootstrap
 
 ### 🕹️ Technologies:
