@@ -13,13 +13,16 @@ I am always open to new opportunities for learning and collaborations, so feel f
 - [ ] C++
 - [ ] Go
 
-## 👾 Frameworks & Technologies: 
+## 🏠 Frameworks: 
 - [x] Django
-- [x] Git
 - [ ] React
+- [ ] Bootstrap
+
+## 🕹️ Technologies:
+- [x] Git
+- [x] Figma
 - [x] Adobe Suite: Illustrator, Photoshop, Premiere Pro, Lightroom
 - [x] Microsoft Suite
-- [x] Figma
 
 ## 📄 Certifications:
 - [x] Google Analytics 
