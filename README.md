@@ -11,11 +11,15 @@ I am always open to new opportunities for learning and collaborations, so feel f
 - [x] Javascript
 - [ ] Typescript
 - [ ] C++
+- [ ] C#
 - [ ] Go
 
 ### 🏠 Frameworks: 
 - [x] Django
 - [x] React
+- [ ] Angular
+- [ ] jQuery
+- [ ] Vue.js
 - [ ] Bootstrap
 
 ### 🕹️ Technologies:
