@@ -20,13 +20,14 @@ I am always open to new opportunities for learning and collaborations, so feel f
 - [ ] Angular
 - [ ] jQuery
 - [ ] Vue.js
-- [ ] Bootstrap
+- [x] Bootstrap
 
 ### 🕹️ Technologies:
 - [x] Git
 - [x] Figma
 - [x] Adobe Suite: Illustrator, Photoshop, Premiere Pro, Lightroom
 - [x] Microsoft Suite
+- [x] Wordpress/Shopify
 
 ### 📄 Certifications:
 - [x] Google Analytics 
