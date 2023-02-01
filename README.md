@@ -32,4 +32,4 @@ I am always open to new opportunities for learning and collaborations, so feel f
 ### 📄 Certifications:
 - [x] Google Analytics 
 - [x] Google UX Design
-- [x] Data Science Fundamentals with Python and SQL Specialization
+- [x] IBM Data Science Fundamentals with Python and SQL Specialization
