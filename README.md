@@ -6,13 +6,12 @@ I am always open to new opportunities for learning and collaborations, so feel f
 
 ### 🐍 Languages:
 - [x] Python
-- [x] Java
+- [ ] Java
 - [x] SQL
 - [x] Javascript
 - [ ] Typescript
 - [ ] C++
 - [ ] C#
-- [ ] Go
 
 ### 🏠 Frameworks: 
 - [x] Django
